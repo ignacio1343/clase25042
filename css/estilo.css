@@ -1,0 +1,12 @@
+div{
+    padding: 2%;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    background-color: pink;
+}
+
+body{
+    margin: 0px;
+}
